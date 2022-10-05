@@ -4,3 +4,6 @@ def hola():
 def saludar():
     print("Antes de sauludar")
     hola()
+
+def dummy():
+    pass
